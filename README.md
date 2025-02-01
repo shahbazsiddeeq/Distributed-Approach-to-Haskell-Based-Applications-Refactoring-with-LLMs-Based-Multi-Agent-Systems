@@ -1,7 +1,7 @@
 # Distributed Approach to Haskell-Based Applications Refactoring with LLMs-Based Multi-Agent Systems
 
 ## Overview
-This project provides a **distributed approach to refactoring Haskell-based applications** using **Large Language Models (LLMs)** and a **multi-agent system**. The goal is to automate and optimize the refactoring process by leveraging AI-driven agents for parsing, analyzing, and restructuring Haskell code.
+This project provides a **distributed approach to refactoring Haskell-based applications** using **Large Language Models (LLMs)** and a **multi-agent system**. The goal is to automate and optimize the refactoring process by using AI-driven agents for parsing, analyzing, and restructuring Haskell code.
 
 ## Features
 - **Automated Code Refactoring**: Uses LLMs to improve Haskell code structure.
