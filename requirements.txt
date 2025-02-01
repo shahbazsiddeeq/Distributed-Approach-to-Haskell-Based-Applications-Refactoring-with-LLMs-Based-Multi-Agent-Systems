@@ -1,0 +1,20 @@
+# Required Python Packages
+
+# Core dependencies
+openai
+haskell-language-server
+
+# Parsing and analysis
+lark-parser
+
+# Logging and debugging
+tqdm
+loguru
+
+# Additional utilities
+numpy
+pandas
+
+# Virtual environment support
+virtualenv
+
