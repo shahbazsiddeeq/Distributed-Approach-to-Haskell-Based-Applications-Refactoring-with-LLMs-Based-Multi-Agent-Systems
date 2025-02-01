@@ -144,7 +144,7 @@ def multi_agent_team_refactor(haskell_code):
 
 if __name__ == "__main__":
     # Load the Haskell code
-    with open("codebase.hs", "r") as file:
+    with open("your_codebase.hs", "r") as file:
         haskell_code = file.read()
 
     # print(f"org code: {haskell_code}")
